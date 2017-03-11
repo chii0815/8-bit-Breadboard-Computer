@@ -35,3 +35,5 @@ If you are following Ben Eater's build of an 8-bit breadboard computer (https://
 | Resistor 1MΩ | 2 |  | Clock | |
 | Resistor 330Ω | 3 |  | Clock | |
 | Toggle switch | 1 | Double-pole toggle switch | Clock | |
+| M74HC595 | 2 | EEPROM Progammer | |
+| Arduino Nano | 1 | EEPROM Programmer | |
